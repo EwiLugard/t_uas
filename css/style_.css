@@ -1,0 +1,62 @@
+@import url("parallax-slider.css");		/* Parallax Slider */
+body{
+	/*background: #20FF93;
+*/	/*background: url(../E1.jpg);*/*/ 
+}
+
+.footer{
+	height: 60px;
+	line-height: 20px;
+	background: #141414;
+}
+.oke {
+	font-family: 'Times New Roman';
+	font-size: 18px;
+	color: #666;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Boogaloo" !important;
+	font-weight: normal !important;
+	color: #666;
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	border-bottom: 3px double #f6f6f6;
+	margin-bottom: 10px;
+}
+
+.title h1, .title h2, .title h3, .title h4, .title h5, .title h6 {
+	border-bottom: 5px double #89c236 !important;
+	margin-bottom: -4px !important;
+	display: inline-block !important;
+	padding: 0px 10px !important;
+	margin-left:15px !important;
+	margin-right:15px !important;
+}
+
+#wrapper {
+	background: #fff;
+
+}
+
+/* #Lists
+================================================== */
+	ul, ol { margin: 0; }
+	ul { list-style: none outside; }
+	ol { list-style: decimal; }
+	ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
+	ul.square { list-style: square outside; }
+	ul.circle { list-style: circle outside; }
+	ul.disc { list-style: disc outside; }
+	ul ul, ul ol,
+	ol ol, ol ul {}
+	ul ul li, ul ol li,
+	ol ol li, ol ul li {}
+
+
+
+/* Header
+=================================================================== */
